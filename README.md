@@ -1,5 +1,5 @@
 # Project Name
-
+Linear Regression Assignment - Bike sharing data using ML
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -30,8 +30,8 @@
 
 ## Conclusions
 <ul>
-    <li>The R² value for the test data = 0.8281625450407033,</li>
-    <li>The R² value for the train data = 0.853;</li>
+    <li>The R² value for the test data = 0.820;</li>
+    <li>The R² value for the train data = 0.824;</li>
     
 </ul>
 we can see the value from the final model summary above. 
@@ -55,24 +55,20 @@ The features that are unprofitable for rentals:-
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
-- Pandas
-- Numpy
-- seaborn
-- matplotlib
-- math
-- statsmodels
+- Pandas 1.2.4
+- Numpy 1.20.1
+- seaborn 0.11.1
+- matplotlib 3.3.4
+- statsmodels 0.12.2
+- sklearn 0.24.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+NA
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@ganeshbabuNN] - feel free to contact me!
 
 
 <!-- Optional -->
