@@ -7,8 +7,6 @@ Linear Regression Assignment - Bike sharing data using ML
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
 - Provide general information about your project here.
 > A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike >share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the >system unlocks it. This bike can then be returned to another dock belonging to the same system.
@@ -25,8 +23,6 @@ Linear Regression Assignment - Bike sharing data using ML
 - What is the dataset that is being used?
 >Bike Sharing dataset
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Conclusions
 <ul>
     <li>The R² value for the test data = 0.820;</li>
@@ -38,20 +34,17 @@ we can see the value from the final model summary above.
 Since the R² values for both the train and test data are almost equal, the model we built is the best-fitted model.
 
 Data Analysis:-
-The features that are profitable for rentals:- 
+Top 3 predictor variables that influences the bike booking:- 
 <ul>
-<li>Year</li>
-<li>Temp</li>
-<li>weathersit_Sunshine</li>
+<li>Temperature (temp)</li>
+<li>Weather Situation 3 (weathersit_3)</li>
+<li>Year (yr)</li>
 </ul>
-The features that are unprofitable for rentals:-
+The best features that can also be considered are:-
 <ul>
-<li>Humidity</li>
-<li>weathersit_Rain</li>
-<li>Wind Speed</li>
+<li>season_4</li>
+<li>windspeed</li> 
 </ul>
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
 - Pandas 1.2.4
@@ -61,17 +54,8 @@ The features that are unprofitable for rentals:-
 - statsmodels 0.12.2
 - sklearn 0.24.1
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 ## Acknowledgements
 NA
 
 ## Contact
 Created by [@ganeshbabuNN] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
