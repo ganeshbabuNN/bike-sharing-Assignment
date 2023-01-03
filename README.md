@@ -60,7 +60,7 @@ The best features that can also be considered are:-
 - sklearn 0.24.1
 
 ## Acknowledgements
-Reference : https://www.kaggle.com/c/bike-sharing-demand
+Reference : https://www.kaggle.com/c/bike-sharing-demand,
             https://medium.com/@shawanugya12/bike-sharing-demand-exploratory-data-analysis-2095a1ed4bd8#bf75
 
 ## Contact
